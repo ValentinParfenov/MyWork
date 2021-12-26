@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CollectionViewController.viewDidLoad():CollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in RealmManager.addPurchase(_:):RealmManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductController.init(coder:):ProductController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productInfo">
+            </PersistentString>
+            <PersistentString
+               value = "sizeProduct">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RealmManager.addPurchase(_:):RealmManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "BottomSheet.tableView(_:cellForRowAt:):BottomSheet.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CollectionViewController.viewDidLoad():CollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentCellIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in LoadCategoryList.loadProductInfo(id:completion:):LoadManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CartController.mappingPrice():CartController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CategoryListController.viewDidLoad():CategoryListController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in CartController.mappingPrice():CartController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CartController.init(coder:):CartController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.pickerView(_:numberOfRowsInComponent:):ViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductViewController.viewDidLoad():ProductVIewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductListController.viewDidLoad():ProductListController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductViewController.productPictures.getter:ProductVIewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CollectionViewController.collectionView(_:didSelectItemAt:):CollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "+[RLMObjectSchema schemaForObjectClass:]:RLMObjectSchema.mm">
+      </ContextState>
+      <ContextState
+         contextName = "Offers.init(data:):CategoryInfo.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CollectionViewController.subCategory.setter:CollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CollectionViewController.init(coder:):CollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Realm.write&lt;&#x3c4;_0_0&gt;(withoutNotifying:_:):Realm.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CollectionViewController.collectionView(_:cellForItemAt:):CollectionViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductController.viewDidLoad():ProductController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SubCategoryListController.prepare(for:sender:):SubCategoryScreenController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductController.collectionView(_:cellForItemAt:):ProductController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productInfo.productImages">
+            </PersistentString>
+            <PersistentString
+               value = "sizeSelectHandler">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SizeCollectionCell.setSizeText(sizeProduct:):SizeCollectionCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.sizeLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductController.collectionView(_:numberOfItemsInSection:):ProductController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productInfo.productImages.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RealmManager.init():RealmManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PicturesCarousel.init(data:):CategoryInfo.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in ProductCollectionCell.fillProductCollectionPictures(product:):ProductCollectionCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "CartController.viewWillAppear(_:):CartController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mappingPrice">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CartController.tableView(_:numberOfRowsInSection:):CartController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductViewController.collectionView(_:numberOfItemsInSection:):ProductVIewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productsInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CollectionViewController.numberOfSections(in:):CollectionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.productsInfo.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductInfo.init(data:):CategoryInfo.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "data[&quot;attributes&quot;] as? [[String : Any]]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductController.prepare(for:sender:):ProductController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductViewController.productPictures.setter:ProductVIewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SubCategoryListController.tableView(_:didSelectRowAt:):SubCategoryScreenController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductController.saveData():ProductController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "productInfo">
+            </PersistentString>
+            <PersistentString
+               value = "realmManager.addPurchase()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProductViewController.subCategory.getter:ProductVIewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ProductViewController.init(coder:):ProductVIewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "SizeCollectionCell.isSelected.didset:SizeCollectionCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.sizeLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CartController.viewDidLoad():CartController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "newArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
